@@ -1,11 +1,17 @@
 # Java Grade Calculator
 
-This is a simple Java console application that:
+A Java console application that collects user input for multiple grades, calculates key statistics, and assigns a final letter grade.
 
--Takes user input for multiple grades
--Calculates the average
--Finds the highest and lowest grade
+---
+
+#Features
+
+-Accepts multiple grades from user input
+-Calculates the average grade
+-Determines the highest and lowest grades
 -Assigns a letter grade based on the average
+
+---
 
 #How it works
 
@@ -16,6 +22,8 @@ This is a simple Java console application that:
    -Highest grade
    -Lowest grade
 4. Outputs results to console
+
+---
 
 #Example output
 How many grades do you want to enter? 3
@@ -28,8 +36,11 @@ Highest grade: 90.0
 Lowest grade: 70.0
 Letter grade: B
 
+---
+
 #Technologies used
 
 - Java
 - VS Code
-- Git & GitHHub
+- Git
+- GitHub
