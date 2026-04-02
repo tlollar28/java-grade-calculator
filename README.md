@@ -25,6 +25,13 @@ A Java console application that collects user input for multiple grades, calcula
 
 ---
 
+#How to Run
+
+1. Compile the program
+2. Run the program:
+
+---
+
 #Example output
 How many grades do you want to enter? 3
 Enter grade 1: 90
@@ -44,3 +51,13 @@ Letter grade: B
 - VS Code
 - Git
 - GitHub
+
+---
+
+## What I Practiced
+
+-User Input with Scanner
+-Loops and iteration
+-Conditional statements
+-Tracking highest and lowest values
+-Basic Java program structure
