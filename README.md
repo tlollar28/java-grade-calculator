@@ -33,6 +33,7 @@ A Java console application that collects user input for multiple grades, calcula
 ---
 
 #Example output
+
 How many grades do you want to enter? 3
 Enter grade 1: 90
 Enter grade 2: 80
